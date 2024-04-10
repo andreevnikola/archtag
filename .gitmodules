@@ -1,0 +1,3 @@
+[submodule "archtag-api"]
+	path = archtag-api
+	url = https://github.com/andreevnikola/archtag-api.git
